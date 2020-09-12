@@ -2,4 +2,4 @@
 
 Live Demo:
 
-[CodePen](https://codepen.io/gaearon/details/gWWZgR)
+[CodePen](https://codepen.io/gaearon/pen/gWWZgR)
